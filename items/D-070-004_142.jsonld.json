@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 142",
+  "schema:name": "Allen house and houses of neighbors 4",
   "schema:identifier": [
-    "ark:/99999/d3569123a",
+    "ark:/87293/d33j39b83",
     "D-070, Box:4, Folder:142"
   ],
   "schema:associatedMedia": {
@@ -23,5 +23,16 @@
   },
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_142_0001_recto.tif"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:dateCreated": {
+    "@value": "1932-10",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth"
+  },
+  "schema:keywords": [
+    "Residence"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   }
 }

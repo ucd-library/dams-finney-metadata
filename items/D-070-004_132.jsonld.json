@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 132",
+  "schema:name": "Portrait 2",
   "schema:identifier": [
-    "ark:/99999/d3cace13c",
+    "ark:/87293/d3d21rv8d",
     "D-070, Box:4, Folder:132"
   ],
   "schema:associatedMedia": {
@@ -23,5 +23,13 @@
   },
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_132_0001_recto.tif"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:dateCreated": "ca 1928",
+  "schema:keywords": [
+    "Finney, Mary L"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   }
 }

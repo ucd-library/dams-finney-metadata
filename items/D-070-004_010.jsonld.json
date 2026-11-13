@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "Main Street.",
+  "schema:name": "Main Street. 2",
   "schema:identifier": [
-    "ark:/99999/d31d434e4",
+    "ark:/87293/d3542jk5s",
     "D-070, Box:4, Folder:10"
   ],
   "schema:associatedMedia": {
@@ -25,5 +25,9 @@
     "@id": "@base:/media/images/D-070-004_010_0001_recto.tif"
   },
   "schema:dateCreated": "ca 1900.",
-  "schema:description": "Journey From the Star."
+  "schema:description": "Journey From the Star.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

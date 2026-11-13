@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 155",
+  "schema:name": "With Robert Allen and Joe Montoya",
   "schema:identifier": [
-    "ark:/99999/d313179ff",
+    "ark:/87293/d3dv1d01m",
     "D-070, Box:4, Folder:155"
   ],
   "schema:associatedMedia": {
@@ -23,5 +23,23 @@
   },
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_155_0001_recto.tif"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:dateCreated": {
+    "@value": "1965",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:keywords": [
+    "Finney, Ruth",
+    "Allen, Robert",
+    "Montoya, Joe M"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1752750"
+    }
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   }
 }

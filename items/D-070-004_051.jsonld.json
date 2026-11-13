@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "Portrait.",
+  "schema:name": "Portrait. 5",
   "schema:identifier": [
-    "ark:/99999/d3ec97698",
+    "ark:/87293/d3vh5cv4z",
     "D-070, Box:4, Folder:51"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,9 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_051_0001_recto.tif"
   },
-  "schema:dateCreated": "ca 1899-1900."
+  "schema:dateCreated": "ca 1899-1900.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

@@ -15,7 +15,7 @@
   ],
   "schema:name": "Press conference--California's Central Valley Project.",
   "schema:identifier": [
-    "ark:/99999/d374f0f16",
+    "ark:/87293/d3513v65x",
     "D-070, Box:4, Folder:41"
   ],
   "schema:associatedMedia": {
@@ -25,5 +25,9 @@
     "@id": "@base:/media/images/D-70-004_041_0001_recto.tif"
   },
   "schema:dateCreated": "October 18, 1950.",
-  "schema:description": "Includes accompanying letter."
+  "schema:description": "Includes accompanying letter.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

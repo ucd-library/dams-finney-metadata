@@ -15,7 +15,7 @@
   ],
   "schema:name": "Sacramento Star staff during \"Days of Forty Nine\" celebration.",
   "schema:identifier": [
-    "ark:/99999/d31a1d27e",
+    "ark:/87293/d3pz51x73",
     "D-070, Box:4, Folder:29"
   ],
   "schema:associatedMedia": {
@@ -24,6 +24,13 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_029_0001_recto.tif"
   },
-  "schema:dateCreated": "1922",
-  "schema:description": "Journey From the Star."
+  "schema:dateCreated": {
+    "@value": "1922",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:description": "Journey From the Star.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

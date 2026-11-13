@@ -15,7 +15,7 @@
   ],
   "schema:name": "Mary L. Finney and Ruth Finney, Chicago, Ill. 1899.",
   "schema:identifier": [
-    "ark:/99999/d3a755b2f",
+    "ark:/87293/d33776581",
     "D-070, Box:4, Folder:26"
   ],
   "schema:associatedMedia": {
@@ -24,6 +24,13 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_026_0001_recto.tif"
   },
-  "schema:dateCreated": "1899",
-  "schema:description": "Journey From the Star."
+  "schema:dateCreated": {
+    "@value": "1899",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:description": "Journey From the Star.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

@@ -15,7 +15,7 @@
   ],
   "schema:name": "Kodaks.",
   "schema:identifier": [
-    "ark:/99999/d3c1e4fe0",
+    "ark:/87293/d39w0991f",
     "D-070, Box:4, Folder:1"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,20 @@
   "schema:image": {
     "@id": "@base:/media/images/D-070-004_001_0001.tif"
   },
-  "schema:dateCreated": "1898-1941."
+  "schema:dateCreated": "1898-1941.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:keywords": [
+    "Finney, Ruth",
+    "Finney, Mary",
+    "Downieville, California",
+    "Childhood Years"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1230606"
+    }
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

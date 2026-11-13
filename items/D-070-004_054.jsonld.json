@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "Portrait.",
+  "schema:name": "Portrait. 7",
   "schema:identifier": [
-    "ark:/99999/d3128c389",
+    "ark:/87293/d3gb1xt4g",
     "D-070, Box:4, Folder:54"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,9 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_054_0001_recto.tif"
   },
-  "schema:dateCreated": "ca 1932-1934."
+  "schema:dateCreated": "ca 1932-1934.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

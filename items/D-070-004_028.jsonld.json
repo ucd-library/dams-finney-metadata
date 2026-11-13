@@ -15,7 +15,7 @@
   ],
   "schema:name": "Ruth Finney is second from the left.",
   "schema:identifier": [
-    "ark:/99999/d38ec3f51",
+    "ark:/87293/d3tq5rr1g",
     "D-070, Box:4, Folder:28"
   ],
   "schema:associatedMedia": {
@@ -24,6 +24,13 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_028_0001_recto.tif"
   },
-  "schema:dateCreated": "1922",
-  "schema:description": "Journey From the Star."
+  "schema:dateCreated": {
+    "@value": "1922",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:description": "Journey From the Star.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

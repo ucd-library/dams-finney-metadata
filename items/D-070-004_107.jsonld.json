@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 107",
+  "schema:name": "Mexican scenes 4",
   "schema:identifier": [
-    "ark:/99999/d330c420f",
+    "ark:/87293/d3mp4vz7q",
     "D-070, Box:4, Folder:107"
   ],
   "schema:associatedMedia": {
@@ -23,5 +23,13 @@
   },
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_107_0001_recto.tif"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:dateCreated": "July 6, 1929 - July 28, 1929",
+  "schema:keywords": [
+    "Autobiography - Mexico Vacation"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   }
 }

@@ -15,7 +15,7 @@
   ],
   "schema:name": "With Janet Baird (R), interviewer.",
   "schema:identifier": [
-    "ark:/99999/d302d54a4",
+    "ark:/87293/d3k35mq9v",
     "D-070, Box:4, Folder:61"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,9 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_061_0001_recto.tif"
   },
-  "schema:dateCreated": "October 7, 1937."
+  "schema:dateCreated": "October 7, 1937.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

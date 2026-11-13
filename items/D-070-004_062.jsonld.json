@@ -15,7 +15,7 @@
   ],
   "schema:name": "With Robert Allen and Joe Montoya.",
   "schema:identifier": [
-    "ark:/99999/d3f930dd2",
+    "ark:/87293/d3fb4wx66",
     "D-070, Box:4, Folder:62"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,12 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_062_0001_recto.tif"
   },
-  "schema:dateCreated": "1965"
+  "schema:dateCreated": {
+    "@value": "1965",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

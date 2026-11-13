@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 128",
+  "schema:name": "Factory scenes 7",
   "schema:identifier": [
-    "ark:/99999/d3a38d564",
+    "ark:/87293/d3x05xp96",
     "D-070, Box:4, Folder:128"
   ],
   "schema:associatedMedia": {
@@ -23,5 +23,17 @@
   },
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_128_0001_recto.tif"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:dateCreated": {
+    "@value": "1942",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:keywords": [
+    "Women - Wartime Labor",
+    "World War II Industry Tour"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   }
 }

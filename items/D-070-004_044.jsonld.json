@@ -15,7 +15,7 @@
   ],
   "schema:name": "Reagh, Ruth, and Mary Finney Chicago, about 1900.",
   "schema:identifier": [
-    "ark:/99999/d35e69040",
+    "ark:/87293/d3rr1pz02",
     "D-070, Box:4, Folder:44"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,12 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_044_0001_recto.tif"
   },
-  "schema:dateCreated": "1900"
+  "schema:dateCreated": {
+    "@value": "1900",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

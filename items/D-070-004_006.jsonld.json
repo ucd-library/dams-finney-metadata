@@ -15,7 +15,7 @@
   ],
   "schema:name": "Sacramento High School graduation day 1916. In front of house where we kept our first boarders.",
   "schema:identifier": [
-    "ark:/99999/d39637528",
+    "ark:/87293/d3p55dt2z",
     "D-070, Box:4, Folder:6"
   ],
   "schema:associatedMedia": {
@@ -25,5 +25,9 @@
     "@id": "@base:/media/images/D-070-004_006_0001_recto.tif"
   },
   "schema:dateCreated": "January 1916.",
-  "schema:description": "Journey From the Star."
+  "schema:description": "Journey From the Star.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

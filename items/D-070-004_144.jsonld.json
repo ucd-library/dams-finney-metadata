@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 144",
+  "schema:name": "Allen apartment",
   "schema:identifier": [
-    "ark:/99999/d3b3800c4",
+    "ark:/87293/d3v40k933",
     "D-070, Box:4, Folder:144"
   ],
   "schema:associatedMedia": {
@@ -23,5 +23,13 @@
   },
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_144_0001_recto.tif"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:dateCreated": "ca March 1929",
+  "schema:keywords": [
+    "Residence"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   }
 }

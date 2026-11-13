@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 160",
+  "schema:name": "Family 5",
   "schema:identifier": [
-    "ark:/99999/d31f7a05f",
+    "ark:/87293/d3s46hh5k",
     "D-070, Box:4, Folder:160"
   ],
   "schema:associatedMedia": {
@@ -23,5 +23,13 @@
   },
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_160_0001_recto.tif"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:dateCreated": "ca 1894-1961",
+  "schema:keywords": [
+    "Family History"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   }
 }

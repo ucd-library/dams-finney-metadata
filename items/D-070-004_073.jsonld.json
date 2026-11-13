@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "With Gertrude Rose.",
+  "schema:name": "With Gertrude Rose",
   "schema:identifier": [
-    "ark:/99999/d324be92e",
+    "ark:/87293/d3125qm41",
     "D-070, Box:4, Folder:73"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,16 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_073_0001_recto.tif"
   },
-  "schema:dateCreated": "1914"
+  "schema:dateCreated": {
+    "@value": "1914",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:keywords": [
+    "Finney, Ruth",
+    "Rose, Gertrude"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

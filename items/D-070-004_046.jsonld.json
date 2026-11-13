@@ -15,7 +15,7 @@
   ],
   "schema:name": "Ruth Finney presented with wedding gift by Senate Press Gallery Standing Committee.",
   "schema:identifier": [
-    "ark:/99999/d34159e93",
+    "ark:/87293/d3h708b3r",
     "D-070, Box:4, Folder:46"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,12 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_046_0001_recto.tif"
   },
-  "schema:dateCreated": "1929"
+  "schema:dateCreated": {
+    "@value": "1929",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

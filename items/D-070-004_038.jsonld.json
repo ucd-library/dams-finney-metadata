@@ -15,7 +15,7 @@
   ],
   "schema:name": "Mexican scenes.",
   "schema:identifier": [
-    "ark:/99999/d3fc6cf12",
+    "ark:/87293/d3j67971g",
     "D-070, Box:4, Folder:38"
   ],
   "schema:associatedMedia": {
@@ -25,5 +25,9 @@
     "@id": "@base:/media/images/D-70-004_038_0001_recto.tif"
   },
   "schema:dateCreated": "July 6, 1929-July 28, 1929.",
-  "schema:description": "Visited Vera Cruz, Mexico City, Puebla, and Taxco."
+  "schema:description": "Visited Vera Cruz, Mexico City, Puebla, and Taxco.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

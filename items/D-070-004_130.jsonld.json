@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 130",
+  "schema:name": "Snow on the Allen Lawn",
   "schema:identifier": [
-    "ark:/99999/d3ad7743a",
+    "ark:/87293/d3nk36g5h",
     "D-070, Box:4, Folder:130"
   ],
   "schema:associatedMedia": {
@@ -23,5 +23,17 @@
   },
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_130_0001_recto.tif"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:dateCreated": {
+    "@value": "1934",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:keywords": [
+    "Residence",
+    "Autobiography -- Scripps-Howard Washington Alliance Years"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   }
 }

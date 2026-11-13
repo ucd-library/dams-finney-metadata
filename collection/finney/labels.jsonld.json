@@ -1,0 +1,24 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/118328",
+    "http://schema.org/name": "Johnson, Hiram, 1866-1945"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1230606",
+    "http://schema.org/name": "California--Downieville"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1752750",
+    "http://schema.org/name": "Allen, Robert S. (Robert Sharon), 1900-1981"
+  }
+]

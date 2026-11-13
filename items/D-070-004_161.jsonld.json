@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 161",
+  "schema:name": "Family 6",
   "schema:identifier": [
-    "ark:/99999/d3190959b",
+    "ark:/87293/d3nc5sp9v",
     "D-070, Box:4, Folder:161"
   ],
   "schema:associatedMedia": {
@@ -23,5 +23,13 @@
   },
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_161_0001_recto.tif"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:dateCreated": "ca 1894-1961",
+  "schema:keywords": [
+    "Family History"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   }
 }

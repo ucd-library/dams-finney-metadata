@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 098",
+  "schema:name": "Downieville scenes 24",
   "schema:identifier": [
-    "ark:/99999/d3917951e",
+    "ark:/87293/d3sf2mp26",
     "D-070, Box:4, Folder:98"
   ],
   "schema:associatedMedia": {
@@ -23,5 +23,19 @@
   },
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_098_0001_recto.tif"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:dateCreated": "1903-1941",
+  "schema:keywords": [
+    "Downieville, California",
+    "Autobiography -- Childhood Years"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1230606"
+    }
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   }
 }

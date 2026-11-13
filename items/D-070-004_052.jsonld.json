@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "Portrait.",
+  "schema:name": "Portrait. 6",
   "schema:identifier": [
-    "ark:/99999/d34325b1d",
+    "ark:/87293/d3qr4p207",
     "D-070, Box:4, Folder:52"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,12 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_052_0001_recto.tif"
   },
-  "schema:dateCreated": "1914"
+  "schema:dateCreated": {
+    "@value": "1914",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

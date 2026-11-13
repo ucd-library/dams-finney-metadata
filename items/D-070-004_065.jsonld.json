@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "Portrait.",
+  "schema:name": "Portrait. 10",
   "schema:identifier": [
-    "ark:/99999/d3637f7cb",
+    "ark:/87293/d3222rh3s",
     "D-070, Box:4, Folder:65"
   ],
   "schema:associatedMedia": {
@@ -25,5 +25,9 @@
     "@id": "@base:/media/images/D-70-004_065_0001_recto.tif"
   },
   "schema:dateCreated": "n.d.",
-  "schema:description": "Autographed."
+  "schema:description": "Autographed.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

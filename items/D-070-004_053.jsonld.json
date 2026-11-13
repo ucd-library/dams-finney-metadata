@@ -15,7 +15,7 @@
   ],
   "schema:name": "Mary L. Finney family portrait.",
   "schema:identifier": [
-    "ark:/99999/d3e78ed08",
+    "ark:/87293/d3m03z78r",
     "D-070, Box:4, Folder:53"
   ],
   "schema:associatedMedia": {
@@ -24,6 +24,13 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_053_0001_recto.tif"
   },
-  "schema:dateCreated": "1915",
-  "schema:description": "Caption on verso."
+  "schema:dateCreated": {
+    "@value": "1915",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:description": "Caption on verso.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 003",
+  "schema:name": "Photograph album, Box 4, Folder 3",
   "schema:identifier": [
-    "ark:/99999/d38e1e7b2",
+    "ark:/87293/d32b8vp2t",
     "D-070, Box:4, Folder:3"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,25 @@
   "schema:image": {
     "@id": "@base:/media/images/D-070-004_003_0001.tif"
   },
-  "schema:dateCreated": "1912-1916."
+  "schema:dateCreated": "1912-1916.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:keywords": [
+    "Roosevelt, Theodore",
+    "Johnson, Hiram W.",
+    "Finney, Ruth",
+    "Childhood Years",
+    "Downieville, California",
+    "Sacramento High School Years"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/118328"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1230606"
+    }
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

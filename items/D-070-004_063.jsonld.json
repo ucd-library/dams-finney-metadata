@@ -15,7 +15,7 @@
   ],
   "schema:name": "With Sen. Clair Engle, D-Calif.",
   "schema:identifier": [
-    "ark:/99999/d30be1dc9",
+    "ark:/87293/d39k4642v",
     "D-070, Box:4, Folder:63"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,9 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_063_0001_recto.tif"
   },
-  "schema:dateCreated": "January 19, 1961."
+  "schema:dateCreated": "January 19, 1961.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

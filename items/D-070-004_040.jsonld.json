@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "Portrait.",
+  "schema:name": "Portrait. 1",
   "schema:identifier": [
-    "ark:/99999/d3d05c0e0",
+    "ark:/87293/d38s4k088",
     "D-070, Box:4, Folder:40"
   ],
   "schema:associatedMedia": {
@@ -24,6 +24,13 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_040_0001_recto.tif"
   },
-  "schema:dateCreated": "1956",
-  "schema:description": "Autographed photo of governor of California; includes accompanying letter."
+  "schema:dateCreated": {
+    "@value": "1956",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:description": "Autographed photo of governor of California; includes accompanying letter.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

@@ -15,7 +15,7 @@
   ],
   "schema:name": "Bridge connects Main Street and Jersey Flat. White building beyond shed is where Finneys lived.",
   "schema:identifier": [
-    "ark:/99999/d3f6f82bc",
+    "ark:/87293/d31c1ts24",
     "D-070, Box:4, Folder:11"
   ],
   "schema:associatedMedia": {
@@ -25,5 +25,9 @@
     "@id": "@base:/media/images/D-070-004_011_0001_recto.tif"
   },
   "schema:dateCreated": "n.d.",
-  "schema:description": "Journey From the Star."
+  "schema:description": "Journey From the Star.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

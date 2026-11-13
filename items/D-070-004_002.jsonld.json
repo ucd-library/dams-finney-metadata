@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 002",
+  "schema:name": "Photograph album, Box 4, Folder 2",
   "schema:identifier": [
-    "ark:/99999/d3731f743",
+    "ark:/87293/d3639kg6z",
     "D-070, Box:4, Folder:2"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,22 @@
   "schema:image": {
     "@id": "@base:/media/images/D-070-004_002_0001.tif"
   },
-  "schema:dateCreated": "1897-1929."
+  "schema:dateCreated": "1897-1929.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:keywords": [
+    "Downieville, California",
+    "Finney, Reagh",
+    "Finney, Ruth",
+    "Finney, Mary",
+    "Childhood Years",
+    "Residence"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1230606"
+    }
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

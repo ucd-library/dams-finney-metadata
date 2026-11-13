@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 153",
+  "schema:name": "Portrait 15",
   "schema:identifier": [
-    "ark:/99999/d3e5c3e4b",
+    "ark:/87293/d3pc2tm1p",
     "D-070, Box:4, Folder:153"
   ],
   "schema:associatedMedia": {
@@ -23,5 +23,13 @@
   },
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_153_0001_recto.tif"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:dateCreated": "1912-1961",
+  "schema:keywords": [
+    "Finney, Ruth"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   }
 }

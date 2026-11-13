@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "At dedication of Mather Air Force Base.",
+  "schema:name": "At dedication of Mather Air Force Base. 1",
   "schema:identifier": [
-    "ark:/99999/d39508447",
+    "ark:/87293/d38k75714",
     "D-070, Box:4, Folder:71"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,9 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_071_0001_recto.tif"
   },
-  "schema:dateCreated": "ca 1914."
+  "schema:dateCreated": "ca 1914.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

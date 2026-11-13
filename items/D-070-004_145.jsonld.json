@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "D-070-004 145",
+  "schema:name": "Portrait with Elaine",
   "schema:identifier": [
-    "ark:/99999/d3c788a79",
+    "ark:/87293/d3qb9vh1c",
     "D-070, Box:4, Folder:145"
   ],
   "schema:associatedMedia": {
@@ -23,5 +23,13 @@
   },
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_145_0001_recto.tif"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:dateCreated": "ca 1939-1940",
+  "schema:keywords": [
+    "Autobiography -- Scripps-Howard Washington Alliance Years"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   }
 }

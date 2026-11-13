@@ -15,7 +15,7 @@
   ],
   "schema:name": "R. F. 1916 H. S. grad.",
   "schema:identifier": [
-    "ark:/99999/d3e3eaec6",
+    "ark:/87293/d3416t946",
     "D-070, Box:4, Folder:49"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,12 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_049_0001_recto.tif"
   },
-  "schema:dateCreated": "1916"
+  "schema:dateCreated": {
+    "@value": "1916",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

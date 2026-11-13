@@ -15,7 +15,7 @@
   ],
   "schema:name": "Allen house and houses of neighbors.",
   "schema:identifier": [
-    "ark:/99999/d34670c8c",
+    "ark:/87293/d3bk17123",
     "D-070, Box:4, Folder:55"
   ],
   "schema:associatedMedia": {
@@ -25,5 +25,9 @@
     "@id": "@base:/media/images/D-70-004_055_0001_recto.tif"
   },
   "schema:dateCreated": "October 1932.",
-  "schema:description": "1525 28th Street, N. W., Washington, D. C."
+  "schema:description": "1525 28th Street, N. W., Washington, D. C.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

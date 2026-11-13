@@ -15,7 +15,7 @@
   ],
   "schema:name": "Ruth Finney, 2nd from left in front of Sacramento Star during Days of Forty Nine celebration, 1922.",
   "schema:identifier": [
-    "ark:/99999/d34dab01b",
+    "ark:/87293/d35t3g97m",
     "D-070, Box:4, Folder:64"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,12 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_064_0001_recto.tif"
   },
-  "schema:dateCreated": "1922"
+  "schema:dateCreated": {
+    "@value": "1922",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

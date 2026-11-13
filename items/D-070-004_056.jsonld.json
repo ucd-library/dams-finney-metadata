@@ -15,7 +15,7 @@
   ],
   "schema:name": "Allen apartment.",
   "schema:identifier": [
-    "ark:/99999/d3e7a4e86",
+    "ark:/87293/d36t0h68b",
     "D-070, Box:4, Folder:56"
   ],
   "schema:associatedMedia": {
@@ -25,5 +25,9 @@
     "@id": "@base:/media/images/D-70-004_056_0001_recto.tif"
   },
   "schema:dateCreated": "ca March 1929.",
-  "schema:description": "Hammond Court Apartments."
+  "schema:description": "Hammond Court Apartments.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

@@ -15,7 +15,7 @@
   ],
   "schema:name": "GOP national convention Kansas City, 1928.",
   "schema:identifier": [
-    "ark:/99999/d3bc1856d",
+    "ark:/87293/d39p2wh5s",
     "D-070, Box:4, Folder:32"
   ],
   "schema:associatedMedia": {
@@ -24,6 +24,13 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_032_0001_recto.tif"
   },
-  "schema:dateCreated": "1928",
-  "schema:description": "Journey From the Star."
+  "schema:dateCreated": {
+    "@value": "1928",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:description": "Journey From the Star.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

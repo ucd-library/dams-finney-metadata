@@ -15,7 +15,7 @@
   ],
   "schema:name": "Sierra County landscape after snowfall.",
   "schema:identifier": [
-    "ark:/99999/d35a13ecd",
+    "ark:/87293/d3cn6z947",
     "D-070, Box:4, Folder:16"
   ],
   "schema:associatedMedia": {
@@ -25,5 +25,9 @@
     "@id": "@base:/media/images/D-070-004_016_0001_recto.tif"
   },
   "schema:dateCreated": "ca 1900.",
-  "schema:description": "Journey From the Star."
+  "schema:description": "Journey From the Star.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

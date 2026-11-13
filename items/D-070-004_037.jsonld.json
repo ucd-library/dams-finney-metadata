@@ -15,7 +15,7 @@
   ],
   "schema:name": "In front of Washington Star office, 1322 New York Ave. N. W.",
   "schema:identifier": [
-    "ark:/99999/d308c42ee",
+    "ark:/87293/d3nz81159",
     "D-070, Box:4, Folder:37"
   ],
   "schema:associatedMedia": {
@@ -24,6 +24,13 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_037_0001_recto.tif"
   },
-  "schema:dateCreated": "1933",
-  "schema:description": "Journey From the Star."
+  "schema:dateCreated": {
+    "@value": "1933",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear"
+  },
+  "schema:description": "Journey From the Star.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

@@ -15,7 +15,7 @@
   ],
   "schema:name": "With Newton Minow, FCC Commissioner, 1961 or 1962.",
   "schema:identifier": [
-    "ark:/99999/d3c4f115b",
+    "ark:/87293/d3pr7n51g",
     "D-070, Box:4, Folder:60"
   ],
   "schema:associatedMedia": {
@@ -25,5 +25,9 @@
     "@id": "@base:/media/images/D-70-004_060_0001_recto.tif"
   },
   "schema:dateCreated": "ca 1961.",
-  "schema:description": "Caption on verso."
+  "schema:description": "Caption on verso.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

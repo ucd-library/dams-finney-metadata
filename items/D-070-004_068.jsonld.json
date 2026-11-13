@@ -15,7 +15,7 @@
   ],
   "schema:name": "Family.",
   "schema:identifier": [
-    "ark:/99999/d33b5395c",
+    "ark:/87293/d3nv99n32",
     "D-070, Box:4, Folder:68"
   ],
   "schema:associatedMedia": {
@@ -25,5 +25,9 @@
     "@id": "@base:/media/images/D-70-004_068_0001_recto.tif"
   },
   "schema:dateCreated": "ca 1894-1961.",
-  "schema:description": "Unidentified friends and relatives."
+  "schema:description": "Unidentified friends and relatives.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

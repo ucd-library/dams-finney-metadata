@@ -15,7 +15,7 @@
   ],
   "schema:name": "Snow on the Allen Lawn.",
   "schema:identifier": [
-    "ark:/99999/d3c3fce97",
+    "ark:/87293/d3wh2dr5p",
     "D-070, Box:4, Folder:43"
   ],
   "schema:associatedMedia": {
@@ -25,5 +25,9 @@
     "@id": "@base:/media/images/D-70-004_043_0001_recto.tif"
   },
   "schema:dateCreated": "March 1934.",
-  "schema:description": "1525 28th Street, N. W., Washington, D. C."
+  "schema:description": "1525 28th Street, N. W., Washington, D. C.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }

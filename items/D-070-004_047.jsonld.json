@@ -13,9 +13,9 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:name": "Portrait.",
+  "schema:name": "Portrait. 3",
   "schema:identifier": [
-    "ark:/99999/d3c237212",
+    "ark:/87293/d3cj87x1w",
     "D-070, Box:4, Folder:47"
   ],
   "schema:associatedMedia": {
@@ -24,5 +24,9 @@
   "schema:image": {
     "@id": "@base:/media/images/D-70-004_047_0001_recto.tif"
   },
-  "schema:dateCreated": "September 17, 1914."
+  "schema:dateCreated": "September 17, 1914.",
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+  }
 }
